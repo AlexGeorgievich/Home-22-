@@ -37,7 +37,7 @@ public class TestBase {
         step("Close driver", Selenide::closeWebDriver);
 
         if (Credentials.isBrowserStack()) {
-            Attach.video(sessionId);
+//            Attach.video(sessionId);
         }
     }
 }
