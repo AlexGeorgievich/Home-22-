@@ -23,11 +23,11 @@
 
 находятся ключевые параметры на запуск тестов в средах browserstack / emulation / real
 
-user=erwinbrower_YvWuGk
+user=erwinb****_YvWuGk
 
-key=s4bKy8BJQkuAaUM47BmV
+key=s4bKy8BJ*****kuAaUM47BmV
 
-app=bs://63cbd44925b5b22527afda9b39691c0f30b35f4e
+app=bs://63cbd449*****25b5b22527afda9b39691c0f30b35f4e
 
 url=http://hub.browserstack.com/wd/hub
 
@@ -35,9 +35,9 @@ appPackage=org.wikipedia.alpha
 
 appActivity=org.wikipedia.main.MainActivity
 
-deviceName=Pixel_4_API_30
+устойство элуляции  --   deviceName=Pixel_4_API_30
 
-deviceNameReal=R58M437X7BD
+реальное Samsung S10+  -- deviceNameReal=R58M437X7BD
 
 
 
